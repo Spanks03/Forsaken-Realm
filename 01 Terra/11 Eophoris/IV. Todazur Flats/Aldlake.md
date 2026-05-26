@@ -1,0 +1,5 @@
+A medium-sized city that runs on the woodworking and milling that supports the whole continent. Not a very educated city but that does not hold anyone back from making a living. The simple people of Aldlake don’t feel they need much and if a person there does, they keep it a secret until the train comes and gets on.
+
+From the Rail, the true city is a few miles away, with milling equipment in between. Every quarter, the people of Aldlake cut down hundreds of miles into “The Wood '' until the train came into town. When the train leaves, “The Wood” is somehow fully regrown back to the rail. Word says the train's druids give back because of their great servitude; others say that that is just Capital City propaganda and think that there are big things in motion.
+
+The simple and relaxed lifestyle is perfect for the short vacation of the train members. Travelers will spend time at the lake while time passes. The intermingling of travelers and the woodworkers are little to none.
