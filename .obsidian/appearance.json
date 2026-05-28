@@ -1,0 +1,10 @@
+{
+  "enabledCssSnippets": [
+    "S - Encoded Fonts",
+    "S - Encoded Icons",
+    "blackthorn-dark"
+  ],
+  "theme": "obsidian",
+  "cssTheme": "ITS Theme",
+  "nativeMenus": false
+}

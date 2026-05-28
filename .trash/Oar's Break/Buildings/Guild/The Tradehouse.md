@@ -1,0 +1,11 @@
+*Merchant Guild*
+
+Rising proudly near the center of Oar’s Break, **The Tradehouse** is a two-story structure of polished pine beams and smooth riverstone, with wide steps worn by generations of tradeboots. Its deep red-painted sign bears the three interlocked rings of the **Merchant’s Compact**, signaling to all who approach that this is no mere general store—it is the official seat of commerce and barter in the region.
+
+Inside, the air hums with conversation, quill-scratches, and the **scent of beeswax, dry ink, and faint spices** carried in on merchant wagons. The ground floor is a **well-organized chaos of goods and ledgers**: bundles of cured furs, sacks of barley and grain, and imported luxuries from distant cities stacked with ruthless efficiency. Glass display cases hold rarities behind locked iron trim, while open crates offer more mundane tools, nails, and rope.
+
+Above all, this is a guildhall—**a nexus of contracts, tariffs, and trade routes**. The walls bear rotating scrollwork notices: caravan schedules, crop prices, river traffic logs, and guild appointments. Seated behind the counter—or more often walking briskly between disputes, deals, and diplomatic pleasantries—is **[[Sarvin Leake]], Guildmaster of the Tradehouse. Silver-haired and sharply dressed, Sarvin conducts business with a **smile as sharp as a sheared coin**, weighing every deal with the same patient precision, whether it’s a farmer bartering oats or a noble’s agent purchasing lumber rights.
+
+Despite the marketplace bustle, **everything within the Tradehouse runs on protocol and ink**. Members of the Merchant Guild meet upstairs in a panel room hung with regional trade maps, legal codices, and a bronze balance scale said to be enchanted to detect fraud. No public business is conducted there—**access is by appointment or invitation only**, and records from those meetings are guarded with near-religious formality.
+
+Sarvin believes deeply in **order through trade** and speaks often of “economic stewardship” in the same breath as a cleric might invoke their god. Yet despite the air of bureaucracy, he’s a skilled manipulator of outcomes—**always listening, always remembering**, and never dealing in coin alone. The Tradehouse may not rule Oar’s Break, but **it owns a stake in everything that does.**

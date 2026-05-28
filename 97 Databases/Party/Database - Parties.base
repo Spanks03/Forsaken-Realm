@@ -1,0 +1,11 @@
+views:
+  - type: cards
+    name: Party
+    filters:
+      and:
+        - file.tags.contains("Party")
+        - file.folder.contains("Party")
+    order:
+      - file.name
+    image: note.art
+    cardSize: 170

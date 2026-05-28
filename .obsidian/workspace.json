@@ -1,0 +1,265 @@
+{
+  "main": {
+    "id": "f8db010da444e404",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ce09372c0a77f56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f001cbe259b780bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault Hub.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vault Hub"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "51744654667a58fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "fca9425322a9baf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e11bd7b616f70615",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a711ef4e7eb1b1f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "44c067641a4fdb31",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 307.50940704345703
+  },
+  "right": {
+    "id": "482dda6614add09f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f228ed1ea3276132",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e191fa38773fe7d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fig Snowberry.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Fig Snowberry"
+            }
+          },
+          {
+            "id": "9a390c065c872195",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02 Timeline/The Forsaken Races.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from The Forsaken Races"
+            }
+          },
+          {
+            "id": "45ef5cc1a3573e86",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b9183b85de24a6c6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Fig Snowberry.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Fig Snowberry"
+            }
+          },
+          {
+            "id": "3236ac628a9ad89e",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "84af3193c79a4d31",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "fcb12a584b70ab7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e88038115ee08c3",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "fantasy-statblocks-creature-pane"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "bases:Create new base": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "templater-obsidian:Templater": false,
+      "dbfolder:Create a new database table": false,
+      "system3-relay:Relay": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "f001cbe259b780bf",
+  "lastOpenFiles": [
+    "03 Pantheon/The Forsaken Pantheon.md",
+    "Vault Hub.md",
+    "README.md",
+    "Forsaken-Realm/Welcome.md",
+    "96 Campaigns/Notes/A Butler Serving New Masters.md",
+    "49 Organizations/Pheonix Nest.md",
+    "98 Templates/Characters/Template - Deity.md",
+    "01 Terra/Terra.md",
+    "02 Timeline/The Timeline of the Tides.md",
+    "02 Timeline/22 The Tide War Timeline/Section I - Myth of the First Depths.md",
+    "02 Timeline/The Forsaken Races.md",
+    "02 Timeline/92 Race's History/The Selachi.md",
+    "02 Timeline/92 Race's History/The Felis.md",
+    "02 Timeline/92 Race's History/The Tabaxi of Terra.md",
+    "02 Timeline/12 Main Timeline/The Rakasta.md",
+    "02 Timeline/92 Race's History/The Dwarves of Terra.md",
+    "51 Characters/PCs/Fig Snowberry.md",
+    "02 Timeline/01 Terra/21 Osse",
+    "02 Timeline/01 Terra/31 Togruylia",
+    "02 Timeline/01 Terra/11 Eophoris",
+    "02 Timeline/01 Terra",
+    "03 Pantheon/23 Ideal Gods/Datarr.md",
+    "Untitled.md",
+    "98 Templates/Characters/Template - NPC.md",
+    "51 Characters/Roran.md",
+    "50 Party/Party 2 - Death's Door.md",
+    "51 Characters/Selene Aurelios.md",
+    "50 Party/Party 1 - TBD.md",
+    "51 Characters/Binary, Utility, & Tactical Liaison, 3rd Rendition.md",
+    "01 Terra/11 Eophoris/IV. Todazur Flats/Sousey.md",
+    "99 Images/Zelus.webp",
+    "99 Images/Zelus.webp.crdownload",
+    "99 Images/Anisoptera.jpg",
+    "99 Images/Anisoptera.jpg.crdownload",
+    "99 Images/Gregaria.webp",
+    "99 Images/Gregaria.webp.crdownload",
+    "99 Images/Sahuagin 1.jpg",
+    "99 Images/Sahuagin 3.jpg",
+    "99 Images/Sahuagin 3.jpg.crdownload",
+    "99 Images/Sahuagin 2.webp",
+    "99 Images/Sahuagin 2.webp.crdownload",
+    "99 Images/Sahuagin 1.jpg.crdownload",
+    "99 Images/Bullywugs.avif",
+    "99 Images/Plum Anim.png",
+    "99 Images/Smudge.png",
+    "99 Images/Sage Anim.png"
+  ]
+}

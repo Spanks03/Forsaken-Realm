@@ -1,0 +1,254 @@
+/* === BLACKTHORN DARK THEME FOR OBSIDIAN — FORSAKEN REALM FANTASY (WITH BACKGROUND IMAGE) === */
+
+/* --- Import fantasy fonts --- */
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Uncial+Antiqua&display=swap');
+
+/* --- Global CSS Variables --- */
+body {
+  --font-default: 'Georgia', serif;
+  --font-monospace: 'Fira Code', monospace;
+  --font-heading: 'Garamond', serif;
+  --font-fantasy: 'Uncial Antiqua', cursive;
+  --font-fantasy-serif: 'Cinzel', serif;
+
+  --text-normal: #e3dccb;
+  --text-muted: #b0a89a;
+  --text-accent: #ffd494;
+  --text-highlight: #ffb94a;
+  --background-primary: #151515;
+  --background-secondary: #1f1f1f;
+  --background-accent: #262626;
+  --border-color: #333;
+  --inline-code-color: #f5d99c;
+
+  --callout-border-width: 2px;
+  --callout-radius: 6px;
+  --callout-padding: 0.75em;
+
+  --strong-color: #ffe29f;
+  --h-color: #f0c15b;
+}
+
+/* --- Theme dark overrides --- */
+.theme-dark {
+  --background-primary: #151515;
+  --background-secondary: #1f1f1f;
+  --background-modifier-border: #333;
+  --background-modifier-hover: #222;
+  --background-modifier-active: #333;
+  --background-modifier-error: #933;
+  --background-modifier-success: #393;
+  --background-modifier-warning: #996a00;
+  color: var(--text-normal);
+  font-family: var(--font-default);
+}
+
+/* --- Background image layer --- */
+.workspace-leaf-content {
+  position: relative;
+  z-index: 0;
+}
+
+.workspace-leaf-content::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: -1230px;
+  width: 100vw;
+  height: 100vh;
+  background-image: url("https://i.postimg.cc/7YbWBRk5/Chat-GPT-Image-Aug-2-2025-04-15-00-PM.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  opacity: 0.45;
+  pointer-events: none;
+  z-index: -1;
+}
+
+/* --- Content background overlay --- */
+.workspace-split.mod-vertical > .workspace-leaf .view-content {
+  background-color: rgba(21, 21, 21, 0.75);
+  backdrop-filter: blur(2px);
+  padding: 0.5em;
+  border-radius: 12px;
+}
+
+/* --- Headings --- */
+.markdown-preview-view h1,
+.cm-s-obsidian .cm-header-1 {
+  font-family: var(--font-fantasy), var(--font-heading);
+  font-size: 2em;
+  color: var(--h-color);
+  border-bottom: 2px solid #443d0f;
+  margin-top: 1em;
+  text-shadow: 0 0 6px var(--h-color);
+  transition: text-shadow 0.3s ease;
+}
+
+.markdown-preview-view h1:hover {
+  text-shadow: 0 0 12px var(--h-color);
+}
+
+.markdown-preview-view h2,
+.cm-s-obsidian .cm-header-2 {
+  font-family: var(--font-fantasy-serif), var(--font-heading);
+  font-size: 1.5em;
+  color: var(--h-color);
+  margin-top: 1.2em;
+  text-shadow: 0 0 4px var(--h-color);
+}
+
+.markdown-preview-view h2:hover {
+  text-shadow: 0 0 8px var(--h-color);
+}
+
+.markdown-preview-view h3,
+.cm-s-obsidian .cm-header-3 {
+  font-family: var(--font-fantasy-serif), var(--font-heading);
+  font-size: 1.25em;
+  color: var(--h-color);
+  margin-top: 1.1em;
+}
+
+/* --- Paragraph text --- */
+.markdown-preview-view p,
+.cm-s-obsidian .cm-line {
+  font-size: 1em;
+  line-height: 1.65;
+  color: var(--text-normal);
+  text-shadow: 0 0 3px #000, 0 0 2px #000;
+}
+
+/* --- Bold and Italic --- */
+strong,
+.cm-strong {
+  color: var(--strong-color);
+  font-weight: bold;
+}
+
+em,
+.cm-em {
+  color: #f0bf8d;
+  font-style: italic;
+}
+
+/* --- Blockquotes --- */
+.markdown-preview-view blockquote {
+  border-left: 4px solid var(--text-highlight);
+  padding-left: 1em;
+  color: var(--text-muted);
+  font-style: italic;
+  background-color: rgba(62, 44, 86, 0.15);
+  box-shadow: inset 0 0 8px rgba(62, 44, 86, 0.4);
+  border-radius: 4px;
+}
+
+/* --- Code blocks and inline code --- */
+.markdown-preview-view code,
+.cm-inline-code {
+  background-color: #2a2a2a;
+  color: var(--inline-code-color);
+  padding: 2px 6px;
+  border-radius: 6px;
+  font-family: var(--font-monospace);
+  font-size: 0.95em;
+  box-shadow: 0 0 6px var(--h-color) inset;
+}
+
+.markdown-preview-view pre {
+  background-color: #1a141a;
+  border: 1px solid #443d0f;
+  padding: 1em;
+  border-radius: 8px;
+  overflow-x: auto;
+  color: var(--inline-code-color);
+  box-shadow: 0 0 12px var(--h-color) inset;
+}
+
+/* --- Lists --- */
+.markdown-preview-view ul,
+.markdown-preview-view ol {
+  padding-left: 2em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  color: var(--text-normal);
+}
+
+.markdown-preview-view li {
+  line-height: 1.6;
+}
+
+/* --- Tables --- */
+.markdown-preview-view table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  background-color: #241f2f;
+  border: 1px solid #3e2c56;
+  border-radius: 6px;
+  box-shadow: 0 0 12px rgba(62, 44, 86, 0.6);
+}
+
+.markdown-preview-view th,
+.markdown-preview-view td {
+  border: 1px solid #3e2c56;
+  padding: 0.5em 1em;
+  text-align: left;
+  color: var(--text-normal);
+}
+
+/* --- Links --- */
+.markdown-preview-view a {
+  color: var(--text-accent);
+  text-decoration: underline;
+  transition: color 0.3s ease, text-shadow 0.3s ease;
+}
+
+.markdown-preview-view a:hover {
+  color: var(--text-highlight);
+  text-shadow: 0 0 10px var(--text-highlight);
+}
+
+/* --- Horizontal rule --- */
+.markdown-preview-view hr {
+  border: none;
+  border-top: 2px solid #3e2c56;
+  margin: 2em 0;
+}
+
+/* --- Checkboxes --- */
+input[type='checkbox'] {
+  accent-color: var(--text-accent);
+}
+
+/* --- Callouts --- */
+.callout {
+  border: var(--callout-border-width) solid var(--text-accent);
+  border-radius: var(--callout-radius);
+  padding: var(--callout-padding);
+  background-color: rgba(184, 139, 50, 0.1);
+  box-shadow: 0 0 12px var(--h-color) inset;
+  transition: box-shadow 0.3s ease;
+}
+
+.callout:hover {
+  box-shadow: 0 0 20px var(--h-color) inset;
+}
+
+/* --- Scrollbar --- */
+::-webkit-scrollbar {
+  width: 8px;
+  background: var(--background-primary);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--h-color);
+  border-radius: 4px;
+}
+
+/* --- YAML frontmatter hidden --- */
+.markdown-preview-view .frontmatter {
+  display: none;
+}
+

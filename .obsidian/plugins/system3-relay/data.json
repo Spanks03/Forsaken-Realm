@@ -1,0 +1,165 @@
+{
+  "release": {
+    "channel": "stable"
+  },
+  "sharedFolders": [
+    {
+      "path": "01 Terra",
+      "guid": "e61c1b33-0363-487c-84ee-10d82323fd78",
+      "relay": "4a939031-d3b2-4b70-9d1d-ef6aeac709b4",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "02 Timeline",
+      "guid": "44fd5844-1241-4129-bd18-d1e705d980a4",
+      "relay": "4a939031-d3b2-4b70-9d1d-ef6aeac709b4",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "03 Pantheon",
+      "guid": "49b0ea50-e095-4774-9e41-22ab7eea4268",
+      "relay": "4a939031-d3b2-4b70-9d1d-ef6aeac709b4",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "49 Organizations",
+      "guid": "2c049ab3-1858-46e5-8d38-95035a9e8847",
+      "relay": "4a939031-d3b2-4b70-9d1d-ef6aeac709b4",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "50 Party",
+      "guid": "3c2ecc1e-c99a-4562-93ef-933c873fe8d5",
+      "relay": "4a939031-d3b2-4b70-9d1d-ef6aeac709b4",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "51 Characters",
+      "guid": "b551c1c1-a9f0-408c-aac3-623ab61cc316",
+      "relay": "4a939031-d3b2-4b70-9d1d-ef6aeac709b4",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "96 Campaigns",
+      "guid": "3ac41545-fcd3-434b-bcd9-47d57d536d54",
+      "relay": "4a939031-d3b2-4b70-9d1d-ef6aeac709b4",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "97 Databases",
+      "guid": "b68a6cf9-c9ea-4b06-b99f-d206a365aa9c",
+      "relay": "4a939031-d3b2-4b70-9d1d-ef6aeac709b4",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "98 Templates",
+      "guid": "32722ca0-9462-43eb-94b3-4da11f79df01",
+      "relay": "4a939031-d3b2-4b70-9d1d-ef6aeac709b4",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "99 Images",
+      "guid": "c73a16bb-8e00-4d8c-b86b-908f40bfe198",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "01 Terra/11 Eophoris",
+      "guid": "d035b0b3-1879-48be-81c7-aa32aab1509c",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    }
+  ],
+  "endpoints": {},
+  "enableDocumentStatus": false,
+  "enableNewLinkFormat": false,
+  "enableDeltaLogging": false,
+  "enableDocumentHistory": false,
+  "enableEditorTweens": false,
+  "enableNetworkLogging": false,
+  "enableCanvasSync": false,
+  "enableVerifyUploads": false,
+  "enableAutomaticDiffResolution": true,
+  "enableDiscordLogin": false,
+  "enableSelfManageHosts": true,
+  "enableToasts": true,
+  "enablePresenceAvatars": true,
+  "enableLiveEmbeds": true,
+  "enablePreviewViewHooks": true,
+  "enableMetadataViewHooks": true,
+  "enableKanbanView": true,
+  "debugging": false,
+  "login": {
+    "provider": "google"
+  },
+  "enableSyncMenu": true,
+  "enableAttachmentSync": true,
+  "enableDocumentServer": true,
+  "enableMicrosoftLogin": true,
+  "enableGitHubLogin": true,
+  "enableOIDCLogin": true
+}

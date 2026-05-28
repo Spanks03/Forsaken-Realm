@@ -1,0 +1,99 @@
+properties:
+  file.name:
+    displayName: Name
+  property.aliases:
+    displayName: Aliases
+  property.organization:
+    displayName: Organizations
+  property.religions:
+    displayName: Religions
+  property.currentLocation:
+    displayName: Location
+  property.occupation:
+    displayName: Occupations
+views:
+  - type: cards
+    name: Family
+    filters:
+      and:
+        - file.inFolder("51 Characters")
+        - party1Relation.containsAny("Family", "Like-Family", "Friends")
+        - or:
+            - '!condition.contains("Dead")'
+            - condition.isEmpty()
+    order:
+      - file.name
+      - aliases
+      - currentLocation
+      - party1Relation
+    columnSize:
+      file.name: 140
+      property.aliases: 190
+      property.organization: 234
+      property.religions: 147
+      property.currentLocation: 203
+    image: note.art
+    cardSize: 100
+  - type: cards
+    name: Allies
+    filters:
+      and:
+        - file.inFolder("Campaign/Characters")
+        - party1Relation.contains("Ally")
+        - or:
+            - '!condition.contains("Dead")'
+            - condition.isEmpty()
+    order:
+      - file.name
+      - aliases
+      - currentLocation
+    columnSize:
+      file.name: 140
+      property.aliases: 190
+      property.organization: 234
+      property.religions: 147
+      property.currentLocation: 203
+    image: note.art
+    cardSize: 100
+  - type: cards
+    name: Friends
+    filters:
+      and:
+        - file.inFolder("Campaign/Characters")
+        - party1Relation.contains("Friend")
+        - or:
+            - '!condition.contains("Dead")'
+            - condition.isEmpty()
+    order:
+      - file.name
+      - aliases
+      - currentLocation
+    columnSize:
+      file.name: 140
+      property.aliases: 190
+      property.organization: 234
+      property.religions: 147
+      property.currentLocation: 203
+    image: note.art
+    cardSize: 100
+  - type: cards
+    name: Enemy
+    filters:
+      and:
+        - file.inFolder("Campaign/Characters")
+        - party1Relation.contains("Enemy")
+        - or:
+            - '!condition.contains("Dead")'
+            - condition.isEmpty()
+    order:
+      - file.name
+      - aliases
+      - currentLocation
+    columnSize:
+      file.name: 140
+      property.aliases: 190
+      property.organization: 234
+      property.religions: 147
+      property.currentLocation: 203
+    image: note.art
+    cardSize: 100

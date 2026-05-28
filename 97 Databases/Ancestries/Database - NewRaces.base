@@ -1,0 +1,13 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.inFolder("02 Timeline")
+        - tag.contains("New Race")
+    order:
+      - file.name
+      - summary
+    image: note.art
+    imageAspectRatio: 0.95
+    cardSize: 170

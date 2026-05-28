@@ -1,0 +1,13 @@
+*Shipping Guild*
+
+Down by the muddy edge of the Virelow River, where the breeze carries the tang of silt and old wood, the **Driftmark Dock Office** rises modest but proud above the tide-worn planks. It's a squat riverside guildhouse built of thick pine beams, darkened from years of mist and boat smoke, with faded blue shutters flanking the small, grimy windows like tired eyes forever watching the water.
+
+The building sits atop sturdy stilts to survive seasonal floods, its underside crowded with crab traps and coiled ropes. All around it, crates are stacked in organized chaos—bundles of hemp rope, casks of saltfish, bundles of lumber half-tarred and half-forgotten. The soft thud of riverboats bumping against their moorings is constant, like a heartbeat for the port.
+
+Inside, the office smells of oilcloth, damp parchment, and the sweet must of river moss. The walls are a patchwork of shipping manifests, outdated maps, and Wilma’s personal notes scribbled in a sharp hand—always black ink, always efficient. A thick desk, worn smooth in some places and splintered in others, dominates the room. Quills, inkpots, and tally stones form organized battalions along its surface. The whole space hums with the low murmur of dockhands reporting in and the occasional barked command from the small but formidable figure behind the desk.
+
+**[[Wilma Netley]]**, sharp-eyed and sharp-tongued, rules the dock with the quiet authority of someone who knows how to keep everything from collapsing. Her weathered coat is always thrown over the same chair, and her hair—more salt than pepper now—is tied back with a knot of old sail thread. She never looks up without a reason and never repeats herself. Boats come and go, but Wilma remembers every one of them: their names, their captains, their last delay, their cargo weight down to the stone.
+
+To newcomers, she's brusque. To regulars, she's indispensable. And to smugglers, she's either the greatest obstacle or their only hope—depending on her mood, or the coin involved. Yet everyone agrees on one thing: **nothing enters or leaves Oar’s Break by water without Wilma knowing about it**.
+
+When the fog rolls in thick from the river and the lanterns light one by one along the piers, the Dock Office glows warm and steady. It’s the hearth of the town’s lifeblood trade—and the quiet keeper of more than a few secrets shipped by crate and barge under the moon.

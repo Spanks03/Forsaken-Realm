@@ -1,0 +1,135 @@
+{
+  "dateDisplayFormat": "{year} {day} {month}",
+  "dateParserGroupPriority": "year,day,month",
+  "dateParserRegex": "(?<year>-?[0-9]*)-(?<day>-?[0-9]*)-(?<month>-?[0-9]*)",
+  "eventRenderToggleKey": "aat-render-enabled",
+  "inlineEventEndOfBodyMarker": "%%aat-event-end-of-body%%",
+  "markdownBlockTagsToFindSeparator": ",",
+  "metadataKeyEventBodyOverride": "aat-event-body",
+  "metadataKeyEventEndDate": "fc-end",
+  "metadataKeyEventPictureOverride": "aat-event-picture",
+  "metadataKeyEventStartDate": "fc-date",
+  "metadataKeyEventTimelineTag": "timelines",
+  "metadataKeyEventTitleOverride": "fc-display-name",
+  "noteInlineEventKey": "aat-inline-event",
+  "ignoreLineCommentToken": "aat-ignore-line",
+  "applyAdditonalConditionFormatting": true,
+  "lookForCalendariumSpanEvents": true,
+  "lookForInlineEventsInNotes": true,
+  "lookForTagsForTimeline": false,
+  "stylizeDateInline": false,
+  "bodyFontSize": 12,
+  "dateFontSize": 8,
+  "titleFontSize": 18,
+  "dateTokenConfiguration": [
+    {
+      "name": "month",
+      "type": "STRING",
+      "dictionary": [
+        "Invalid",
+        "Month of a New Light",
+        "Month of Eaos",
+        "Month of Truth",
+        "Month of Qhathos",
+        "Month of Temp",
+        "Month of Vimnera",
+        "Month of Prosper",
+        "Month of Datarr",
+        "Month of Yearn",
+        "Month of Final Light",
+        " "
+      ],
+      "formatting": []
+    },
+    {
+      "minLeght": 2,
+      "name": "day",
+      "type": "NUMBER",
+      "displayWhenZero": true,
+      "formatting": [
+        {
+          "evaluations": [
+            {
+              "condition": "EQUAL",
+              "value": 50
+            }
+          ],
+          "conditionsAreExclusive": false,
+          "format": " "
+        }
+      ],
+      "hideSign": false
+    },
+    {
+      "minLeght": 2,
+      "name": "year",
+      "type": "NUMBER",
+      "displayWhenZero": true,
+      "formatting": [
+        {
+          "evaluations": [
+            {
+              "condition": "LESS",
+              "value": -8910
+            }
+          ],
+          "conditionsAreExclusive": false,
+          "format": "Unknown"
+        },
+        {
+          "evaluations": [
+            {
+              "condition": "GREATEROREQUAL",
+              "value": -8910
+            },
+            {
+              "condition": "LESS",
+              "value": -500
+            }
+          ],
+          "conditionsAreExclusive": false,
+          "format": "I. R. {value}"
+        },
+        {
+          "evaluations": [
+            {
+              "condition": "GREATEROREQUAL",
+              "value": -500
+            },
+            {
+              "condition": "LESS",
+              "value": 0
+            }
+          ],
+          "conditionsAreExclusive": false,
+          "format": "Cataclysm"
+        },
+        {
+          "evaluations": [
+            {
+              "condition": "GREATEROREQUAL",
+              "value": 0
+            },
+            {
+              "condition": "LESS",
+              "value": 950
+            }
+          ],
+          "conditionsAreExclusive": false,
+          "format": "F. R. {value} Pre Rail"
+        },
+        {
+          "evaluations": [
+            {
+              "condition": "GREATEROREQUAL",
+              "value": 950
+            }
+          ],
+          "conditionsAreExclusive": false,
+          "format": "F. R. {value} Post Rail"
+        }
+      ],
+      "hideSign": false
+    }
+  ]
+}

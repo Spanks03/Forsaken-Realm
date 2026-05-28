@@ -1,0 +1,78 @@
+properties:
+  file.name:
+    displayName: Name
+  property.aliases:
+    displayName: Aliases
+  property.deliveryDate:
+    displayName: Due Date
+  property.summary:
+    displayName: Summary
+  note.aliases:
+    displayName: Aliases
+  note.deliveryDate:
+    displayName: Delivery Date
+  note.summary:
+    displayName: Summary
+  note.poiTypes:
+    displayName: Types
+  note.currentLocation:
+    displayName: Location
+views:
+  - type: table
+    name: Service Requests
+    filters:
+      and:
+        - customer.contains(this)
+    order:
+      - file.name
+      - aliases
+      - deliveryDate
+      - summary
+    columnSize:
+      file.name: 134
+      note.aliases: 176
+      note.deliveryDate: 204
+      note.summary: 572
+  - type: table
+    name: Letters
+    filters:
+      and:
+        - holder.contains(this)
+        - tags.contains("Letter")
+    order:
+      - file.name
+      - aliases
+      - summary
+    columnSize:
+      file.name: 134
+      property.aliases: 169
+      property.summary: 464
+  - type: table
+    name: Literature
+    filters:
+      and:
+        - holder.contains(this)
+        - tags.contains("Literature")
+    order:
+      - file.name
+      - aliases
+      - summary
+    columnSize:
+      file.name: 153
+      property.aliases: 181
+      property.summary: 435
+  - type: table
+    name: Owned Locations
+    filters:
+      and:
+        - owners.contains(this)
+    order:
+      - file.name
+      - aliases
+      - poiTypes
+      - currentLocation
+    columnSize:
+      file.name: 153
+      note.aliases: 176
+      note.poiTypes: 135
+      note.currentLocation: 308

@@ -1,0 +1,12 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.tags.contains("Settlement")
+        - file.folder.contains("01 Terra")
+    order:
+      - file.name
+      - location
+    image: note.art
+    cardSize: 140

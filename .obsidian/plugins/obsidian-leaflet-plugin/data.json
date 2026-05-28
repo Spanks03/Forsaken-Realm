@@ -1,0 +1,2153 @@
+{
+  "mapMarkers": [
+    {
+      "id": "PantheonBox",
+      "lastAccessed": 1758502076826,
+      "markers": [
+        {
+          "id": "ID_58faf80b6abb",
+          "type": "Lesser Gods",
+          "loc": [
+            660.8524229985336,
+            2928.364406498089
+          ],
+          "link": "Modem",
+          "layer": "%5B%5BPantheon.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8873831534842694,
+            -0.2591578129406014
+          ],
+          "description": null,
+          "minZoom": -0.6,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5bca1aaa698a",
+          "type": "Lesser Gods",
+          "loc": [
+            1330.7991453961297,
+            2408.473624185023
+          ],
+          "link": "Nezzeryth",
+          "layer": "%5B%5BPantheon.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7298404921772796,
+            -0.5218820178024038
+          ],
+          "description": null,
+          "minZoom": -0.6,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_38fa2aa8a899",
+          "type": "Ideal God",
+          "loc": [
+            1736,
+            210
+          ],
+          "link": "Truth",
+          "layer": "%5B%5BPantheon.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.06363636363636363,
+            -0.6807843137254902
+          ],
+          "description": null,
+          "minZoom": -1.6,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e8ab1af92949",
+          "type": "Ideal God",
+          "loc": [
+            1727.6423259155408,
+            670.8398393182686
+          ],
+          "link": "Temp",
+          "layer": "%5B%5BPantheon.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2032847997934147,
+            -0.6775067944766827
+          ],
+          "description": null,
+          "minZoom": -1.6,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c9c9ca1839ba",
+          "type": "Ideal God",
+          "loc": [
+            1716.1553423655705,
+            1013.151949107385
+          ],
+          "link": "Prosper",
+          "layer": "%5B%5BPantheon.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.30701574215375305,
+            -0.6730020950453217
+          ],
+          "description": null,
+          "minZoom": -1.6,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8918385adb88",
+          "type": "Ideal God",
+          "loc": [
+            1677.0995982956713,
+            1369.248439156466
+          ],
+          "link": "Yearn",
+          "layer": "%5B%5BPantheon.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.41492376944135334,
+            -0.6576861169786946
+          ],
+          "description": null,
+          "minZoom": -1.6,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ea095a4a1989",
+          "type": "Ideal God",
+          "loc": [
+            1681.6943917156595,
+            1741.4267061755054
+          ],
+          "link": "Datarr",
+          "layer": "%5B%5BPantheon.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5277050624774259,
+            -0.659487996751239
+          ],
+          "description": null,
+          "minZoom": -1.6,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b58e9e8fbfa",
+          "type": "Ideal God",
+          "loc": [
+            1716.1553423655705,
+            2237.6643955342247
+          ],
+          "link": "Vimnera",
+          "layer": "%5B%5BPantheon.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.678080119858856,
+            -0.6730020950453217
+          ],
+          "description": null,
+          "minZoom": -1.6,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_49db3899991b",
+          "type": "Ideal God",
+          "loc": [
+            1732.237119335529,
+            2727.0098947629617
+          ],
+          "link": "Qhathos",
+          "layer": "%5B%5BPantheon.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8263666347766551,
+            -0.6793086742492271
+          ],
+          "description": null,
+          "minZoom": -1.6,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_69b9abc8d958",
+          "type": "Ideal God",
+          "loc": [
+            1734.534516045523,
+            3092.2959716520186
+          ],
+          "link": "Eaos",
+          "layer": "%5B%5BPantheon.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.9370593853490965,
+            -0.6802096141354993
+          ],
+          "description": null,
+          "minZoom": -1.6,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f8ea28fb382b",
+          "type": "Dragon-1st Clutch",
+          "loc": [
+            1572.85342964129,
+            419.6035156257804
+          ],
+          "link": "Lunala",
+          "layer": "%5B%5BPantheon.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.12715258049266073,
+            -0.6168052665259961
+          ],
+          "description": null,
+          "minZoom": -0.6,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a3a188879bb",
+          "type": "Dragon-1st Clutch",
+          "loc": [
+            1572.85342964129,
+            570.0274174538904
+          ],
+          "link": "Sol",
+          "layer": "%5B%5BPantheon.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.17273558104663345,
+            -0.6168052665259961
+          ],
+          "description": null,
+          "minZoom": -0.6,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_299b99fb3819",
+          "type": "Dragon-2nd Clutch",
+          "loc": [
+            1546.463271425832,
+            840.5265391623337
+          ],
+          "link": "Hestinia",
+          "layer": "%5B%5BPantheon.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2547050118673739,
+            -0.6064561848728753
+          ],
+          "description": null,
+          "minZoom": -0.6,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c9899bfba828",
+          "type": "Dragon-3rd Clutch",
+          "loc": [
+            1524.031636942693,
+            2375.1142393912096
+          ],
+          "link": "Guilla",
+          "layer": "%5B%5BPantheon.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7197315876943059,
+            -0.5976594654677228
+          ],
+          "description": null,
+          "minZoom": -0.6,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": []
+    },
+    {
+      "id": "MapCalcExample",
+      "lastAccessed": 1759699725669,
+      "markers": [
+        {
+          "id": "ID_9b1a1b98bb2b",
+          "type": "Demi Gods",
+          "loc": [
+            1335.4245640962542,
+            2409.6839592036713
+          ],
+          "link": "Nezzeryth",
+          "layer": "%5B%5BPantheon.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7302072603647489,
+            -0.5236959074887272
+          ],
+          "description": null,
+          "minZoom": -0.4,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5ac9587beb7b",
+          "type": "Ideal God",
+          "loc": [
+            1725.9163472909459,
+            205.8432340805715
+          ],
+          "link": "Truth",
+          "layer": "%5B%5BPantheon.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.062376737600173184,
+            -0.6768299401140964
+          ],
+          "description": null,
+          "minZoom": -1.6,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8818ea987bcb",
+          "type": "default",
+          "loc": [
+            2044.2703602601237,
+            284.67003419783265
+          ],
+          "link": "Briarwind Farm",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "98 Templates/Map Template.md"
+      ]
+    },
+    {
+      "id": "OarBreakMap",
+      "lastAccessed": 1760211937377,
+      "markers": [
+        {
+          "id": "ID_28e8eb59fa48",
+          "type": "House",
+          "loc": [
+            2021.9658997248712,
+            266.7661157058301
+          ],
+          "link": "Briarwind Farm",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.08683792828965824,
+            -0.8775893662000309
+          ],
+          "description": null,
+          "minZoom": -0.9,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d8b9cb4a78c9",
+          "type": "Castle",
+          "loc": [
+            1809.7655804134154,
+            430.4635048889531
+          ],
+          "link": "Greystone Manor",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.1401248388310394,
+            -0.7854885331655449
+          ],
+          "description": "",
+          "minZoom": -1.2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_48b9686a6a1a",
+          "type": "House",
+          "loc": [
+            2059.396176297394,
+            820.9291811882451
+          ],
+          "link": "Oldstone Mill",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -0.9,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d9c959a9eadb",
+          "type": "Castle",
+          "loc": [
+            1290.4787367358906,
+            374.740246659502
+          ],
+          "link": "Hollowstep Estate",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.12198575737613998,
+            -0.5601036183749525
+          ],
+          "description": null,
+          "minZoom": -1.2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_299ad82b4a0a",
+          "type": "House",
+          "loc": [
+            1169.3749253869819,
+            89.59847168976874
+          ],
+          "link": "Constables Dorn Pike",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.029166169169846597,
+            -0.5075412002547665
+          ],
+          "description": null,
+          "minZoom": -0.9,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f92b6b9b8b08",
+          "type": "Guild",
+          "loc": [
+            1832.2171320548507,
+            1375.5127841081862
+          ],
+          "link": "Driftmark Dock Office",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -1.2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_893b4b2a7b08",
+          "type": "Military",
+          "loc": [
+            1262,
+            1714
+          ],
+          "link": "The Pikewatch Barracks",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5579427083333334,
+            -0.5477430555555556
+          ],
+          "description": null,
+          "minZoom": -1.2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fbc9db8849db",
+          "type": "Guild",
+          "loc": [
+            1082.2216284884244,
+            706.3239199938455
+          ],
+          "link": "The Tradehouse",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.22992315103966324,
+            -0.4697142484758786
+          ],
+          "description": null,
+          "minZoom": -1.2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0a895b5a5859",
+          "type": "Guild",
+          "loc": [
+            973.0900356996756,
+            2185.6632889079942
+          ],
+          "link": "Timber Hollow",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7114789351914044,
+            -0.42234810577242865
+          ],
+          "description": null,
+          "minZoom": -1.2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6a1bc9ab3aaa",
+          "type": "Shop",
+          "loc": [
+            1538.5462239611948,
+            1747.028473863312
+          ],
+          "link": "Cleaver's Chop",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5686941646690469,
+            -0.6677717985942686
+          ],
+          "description": null,
+          "minZoom": -1.4,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4878c94b5828",
+          "type": "Shop",
+          "loc": [
+            964.7876617729297,
+            1416.3857664827942
+          ],
+          "link": "Dusty Tomes",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -1.4,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_89280b5a6bb9",
+          "type": "Shop",
+          "loc": [
+            831.6576090178535,
+            1488.7130680761577
+          ],
+          "link": "Hammer & Peg",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.48460711851437427,
+            -0.3609625039139989
+          ],
+          "description": null,
+          "minZoom": -1.4,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eb489a4bd88b",
+          "type": "Shop",
+          "loc": [
+            1886.1626989051317,
+            2198.6086514643252
+          ],
+          "link": "Ironroot Forge",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7156929203985434,
+            -0.8186470047331301
+          ],
+          "description": null,
+          "minZoom": -1.4,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c8eb38a83bbb",
+          "type": "Shop",
+          "loc": [
+            438.80277160886743,
+            723.6799636481321
+          ],
+          "link": "Notch & String",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.23557290483337634,
+            -0.1904525918441265
+          ],
+          "description": null,
+          "minZoom": -1.4,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_392b6b08f8c8",
+          "type": "Shop",
+          "loc": [
+            1539.2557956960272,
+            1463.4417042662228
+          ],
+          "link": "Produce Stall",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4763807631074944,
+            -0.6680797724375118
+          ],
+          "description": null,
+          "minZoom": -1.4,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_995bdaab687b",
+          "type": "Shop",
+          "loc": [
+            1449.6573240062585,
+            1615.0698871258314
+          ],
+          "link": "Smoked Meats",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5257388955487733,
+            -0.6291915468777164
+          ],
+          "description": null,
+          "minZoom": -1.4,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9a6bd91ada29",
+          "type": "Shop",
+          "loc": [
+            1091.2634372471834,
+            1261.2707937867447
+          ],
+          "link": "Tallow's General Goods",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.41056991985245594,
+            -0.4736386446385345
+          ],
+          "description": null,
+          "minZoom": -1.4,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_884aa9eaa9eb",
+          "type": "Shop",
+          "loc": [
+            870.8569403821273,
+            1265.2912380292341
+          ],
+          "link": "The Frothing Barrel",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -1.4,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8be90b9ad8db",
+          "type": "Shop",
+          "loc": [
+            999.3675688474206,
+            1812.6460041853215
+          ],
+          "link": "The Verdant Jar",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5900540378207427,
+            -0.4337532850900263
+          ],
+          "description": null,
+          "minZoom": -1.4,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_684bba9b5b39",
+          "type": "Shop",
+          "loc": [
+            1348.5718687665194,
+            2053.8726587346987
+          ],
+          "link": "Thread & Tannin",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6685783394318681,
+            -0.5853176513743574
+          ],
+          "description": null,
+          "minZoom": -1.4,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5a7a2aeb7adb",
+          "type": "Shop",
+          "loc": [
+            1155.5905451270173,
+            1406.006786516371
+          ],
+          "link": "Trinket Stalls",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4576845008191312,
+            -0.5015583963224901
+          ],
+          "description": null,
+          "minZoom": -1.4,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_088829a93a9b",
+          "type": "Religion",
+          "loc": [
+            1186,
+            2868
+          ],
+          "link": "Temple of Lunala",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.93359375,
+            -0.5147569444444444
+          ],
+          "description": "",
+          "minZoom": -1.2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b9b9296ad8e9",
+          "type": "Religion",
+          "loc": [
+            1086.6686438271952,
+            2118.199766614533
+          ],
+          "link": "Whisperwillow Clinic",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.689518153194835,
+            -0.47164437666110903
+          ],
+          "description": null,
+          "minZoom": -1.2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_49d9fa28b9db",
+          "type": "Castle",
+          "loc": [
+            1654,
+            1586
+          ],
+          "link": "Vaultclerk Office",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5162760416666666,
+            -0.7178819444444444
+          ],
+          "description": null,
+          "minZoom": -1.2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_49f8e9eadb68",
+          "type": "School",
+          "loc": [
+            406.4084365180515,
+            116.1166961480147
+          ],
+          "link": "Quillgate Hall",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.0377984036940152,
+            -0.17639255057207096
+          ],
+          "description": null,
+          "minZoom": -1.2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_980a490b398a",
+          "type": "Village",
+          "loc": [
+            676,
+            292
+          ],
+          "link": "Willowmane Stables",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.09505208333333333,
+            -0.2934027777777778
+          ],
+          "description": null,
+          "minZoom": -1.2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_898909699889",
+          "type": "House",
+          "loc": [
+            710.2876455343284,
+            774.3547260519025
+          ],
+          "link": "Farra Redleaf",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -0.9,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a9e999983949",
+          "type": "Castle",
+          "loc": [
+            1204,
+            944
+          ],
+          "link": "Townspire Hall",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3072916666666667,
+            -0.5225694444444444
+          ],
+          "description": null,
+          "minZoom": -1.2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fa7a7b79a9cb",
+          "type": "Tavern",
+          "loc": [
+            1332.38240132578,
+            1226.2354939593351
+          ],
+          "link": "The Hollow Hearth Tavern",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -1.4,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_baebebd95a48",
+          "type": "Inn",
+          "loc": [
+            1821.8355910252978,
+            1624.2594739658077
+          ],
+          "link": "The Braided Ram Inn",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5287302975149114,
+            -0.7907272530491745
+          ],
+          "description": null,
+          "minZoom": -1.4,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b918f8db19d9",
+          "type": "House",
+          "loc": [
+            994.1687432841738,
+            1022.0263613096498
+          ],
+          "link": "Niloressa",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.33269087282215165,
+            -0.431496850383756
+          ],
+          "description": null,
+          "minZoom": -0.9,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aa4b894b7a3a",
+          "type": "House",
+          "loc": [
+            619.7503869515315,
+            1625.7531769555121
+          ],
+          "link": "Talla & Hen",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -0.9,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_69db19fb3bfb",
+          "type": "House",
+          "loc": [
+            832.2463385110948,
+            1963.9620707960562
+          ],
+          "link": "Berun Kross",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6393105699205912,
+            -0.3612180288676627
+          ],
+          "description": null,
+          "minZoom": -0.9,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_19ea895aeac8",
+          "type": "House",
+          "loc": [
+            1735.7962090971628,
+            1805.0865929945137
+          ],
+          "link": "Lorn & Fila Varyn",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -0.9,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a0b7adb9928",
+          "type": "House",
+          "loc": [
+            1767.217643491132,
+            1955.256565163095
+          ],
+          "link": "Grandmother Kesh",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6364767464723616,
+            -0.7670215466541372
+          ],
+          "description": null,
+          "minZoom": -0.9,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0b7b195949eb",
+          "type": "House",
+          "loc": [
+            1903.0235313653275,
+            1894.3180257323663
+          ],
+          "link": "Jarin Feld",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6166399823347547,
+            -0.8259650743773123
+          ],
+          "description": null,
+          "minZoom": -0.9,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_997aaab83bba",
+          "type": "House",
+          "loc": [
+            1922.1756437578424,
+            1761.9943401113555
+          ],
+          "link": "Yura & Cal Tembin",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5735658659216653,
+            -0.8342776231587857
+          ],
+          "description": null,
+          "minZoom": -0.9,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b39ca3ad9f8",
+          "type": "House",
+          "loc": [
+            2026.5600972380682,
+            1890.4005481975337
+          ],
+          "link": "Brel & Doma Ashglen",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -0.9,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b88bfa2b8b88",
+          "type": "House",
+          "loc": [
+            2038.747805124214,
+            2024.4653349451369
+          ],
+          "link": "Gellen the Mute",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -0.9,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_dbe95b3bc969",
+          "type": "House",
+          "loc": [
+            1534.661002276039,
+            2189.419064624349
+          ],
+          "link": "Tavrin & Moss",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7127015184324054,
+            -0.6660855044600864
+          ],
+          "description": null,
+          "minZoom": -0.9,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab0a4baa3af8",
+          "type": "Village",
+          "loc": [
+            581.527776281811,
+            1091.6704063733398
+          ],
+          "link": "Chillcellar Stores",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3553614604079882,
+            -0.2523992084556472
+          ],
+          "description": null,
+          "minZoom": -1.2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_abb9f9e8a8a8",
+          "type": "Village",
+          "loc": [
+            1694.0913961742579,
+            2104.9912620500286
+          ],
+          "link": "Stonekeep Depot",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6852185097819103,
+            -0.7352827240339661
+          ],
+          "description": null,
+          "minZoom": -1.2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_29ab4b18782b",
+          "type": "Village",
+          "loc": [
+            1697.4919843121334,
+            2310.0059197062656
+          ],
+          "link": "Town Lot Storage Barn",
+          "layer": "%5B%5BOar's%20Break.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -1.2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "01 Terra/11 Eophoris/II. The Whispering Expanse/Oar's Break/Oar's Break.md"
+      ]
+    },
+    {
+      "id": "TerraMap",
+      "lastAccessed": 1771808896915,
+      "markers": [
+        {
+          "id": "ID_495abbb8e9ab",
+          "type": "Empire City",
+          "loc": [
+            3910.1692004099077,
+            5867.551197324856
+          ],
+          "link": "Aldlake",
+          "layer": "%5B%5BTerra%20Map%20(High%20Res).jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "",
+          "minZoom": -2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9ae999ea0928",
+          "type": "Empire City",
+          "loc": [
+            3085.2311963214643,
+            4077.658838479046
+          ],
+          "link": "Ballybane",
+          "layer": "%5B%5BTerra%20Map%20(High%20Res).jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "",
+          "minZoom": -2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8b989a7b3aba",
+          "type": "Empire City",
+          "loc": [
+            4458.967724790409,
+            2015.8782106832894
+          ],
+          "link": "Chang-Chi-Lou",
+          "layer": "%5B%5BTerra%20Map%20(High%20Res).jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6be9f8a8fa88",
+          "type": "Empire City",
+          "loc": [
+            3583.186118526847,
+            6368.947921074445
+          ],
+          "link": "Byhaven",
+          "layer": "%5B%5BTerra%20Map%20(High%20Res).jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eb0af8d99bcb",
+          "type": "Empire City",
+          "loc": [
+            4473.031394358455,
+            6444.197771533367
+          ],
+          "link": "Bracitos",
+          "layer": "%5B%5BTerra%20Map%20(High%20Res).jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2bc86aa87858",
+          "type": "Empire City",
+          "loc": [
+            3149.6519380053774,
+            5670.766369310953
+          ],
+          "link": "Oldcliff",
+          "layer": "%5B%5BTerra%20Map%20(High%20Res).jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ea99fac8baa9",
+          "type": "Empire City",
+          "loc": [
+            2468.7993010560854,
+            5363.7996572918155
+          ],
+          "link": "Sousey",
+          "layer": "%5B%5BTerra%20Map%20(High%20Res).jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5a4a3909b849",
+          "type": "Empire City",
+          "loc": [
+            1906.771440670081,
+            4134.874793440366
+          ],
+          "link": "Merrimarsh",
+          "layer": "%5B%5BTerra%20Map%20(High%20Res).jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ba99699ac9e9",
+          "type": "Empire City",
+          "loc": [
+            2431.8530795544443,
+            3158.901938390309
+          ],
+          "link": "Ichinoki",
+          "layer": "%5B%5BTerra%20Map%20(High%20Res).jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bab9091a285b",
+          "type": "Empire City",
+          "loc": [
+            3322.4507137907926,
+            2370.580710022263
+          ],
+          "link": "Janbridge",
+          "layer": "%5B%5BTerra%20Map%20(High%20Res).jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9adaba8949cb",
+          "type": "Empire City",
+          "loc": [
+            3628.625460225893,
+            1724.885452688833
+          ],
+          "link": "Eriwall",
+          "layer": "%5B%5BTerra%20Map%20(High%20Res).jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7adbc91a8b89",
+          "type": "Empire City",
+          "loc": [
+            4507.7410688019245,
+            3519.4938674371447
+          ],
+          "link": "Deep Oak",
+          "layer": "%5B%5BTerra%20Map%20(High%20Res).jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c82bbac85b4b",
+          "type": "Empire City",
+          "loc": [
+            4704.455244052256,
+            1629.6706544903445
+          ],
+          "link": "Tromsdal",
+          "layer": "%5B%5BTerra%20Map%20(High%20Res).jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_498888fadb98",
+          "type": "Empire City",
+          "loc": [
+            5162.3648403460165,
+            1385.9164967674299
+          ],
+          "link": "Netherfield",
+          "layer": "%5B%5BTerra%20Map%20(High%20Res).jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_986baa6a9869",
+          "type": "Empire City",
+          "loc": [
+            4769.39556994769,
+            7204.636082541405
+          ],
+          "link": "Malmsbury",
+          "layer": "%5B%5BTerra%20Map%20(High%20Res).jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_085adb8baa29",
+          "type": "Empire City",
+          "loc": [
+            5386.856677377955,
+            7578.582832551991
+          ],
+          "link": "Sage Wynne",
+          "layer": "%5B%5BTerra%20Map%20(High%20Res).jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_49694a1a79ab",
+          "type": "Empire City",
+          "loc": [
+            5412.66664874603,
+            6474.06392876329
+          ],
+          "link": "Las Almohodas",
+          "layer": "%5B%5BTerra%20Map%20(High%20Res).jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_69c8380b9a9b",
+          "type": "Region",
+          "loc": [
+            2263.431464569923,
+            4213.471735146773
+          ],
+          "link": "Alesund Valley",
+          "layer": "%5B%5BTerra%20Region%20%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5143398114192839,
+            -0.3683970482698442
+          ],
+          "description": null,
+          "minZoom": -3.1,
+          "maxZoom": 0,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_79f8fa080a09",
+          "type": "Region",
+          "loc": [
+            5102.374505602455,
+            5364.847503807515
+          ],
+          "link": "The Hypnotic Wilds",
+          "layer": "%5B%5BTerra%20Region%20%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -3.1,
+          "maxZoom": 0,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cbd8bb69cb09",
+          "type": "Region",
+          "loc": [
+            3383.921766526891,
+            5907.215007816822
+          ],
+          "link": "Todazur Flats",
+          "layer": "%5B%5BTerra%20Region%20%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -3.1,
+          "maxZoom": 0,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cbfa98ca1bc9",
+          "type": "Region",
+          "loc": [
+            4872.634834603048,
+            2855.248714069531
+          ],
+          "link": "The Whispering Expanse",
+          "layer": "%5B%5BTerra%20Region%20%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -3.1,
+          "maxZoom": 0,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_982bfa0ab869",
+          "type": "Region",
+          "loc": [
+            5456.579639437434,
+            1200.4475206762354
+          ],
+          "link": "The Vontrie Snow Plains",
+          "layer": "%5B%5BTerra%20Region%20%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.14653900398879827,
+            -0.8881151756896865
+          ],
+          "description": null,
+          "minZoom": -3.1,
+          "maxZoom": 0,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_890b4998caaa",
+          "type": "Region",
+          "loc": [
+            4450.143839274529,
+            3910.544673924056
+          ],
+          "link": "Cassierrel's Spine",
+          "layer": "%5B%5BTerra%20Region%20%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4773614103911201,
+            -0.7243072655069219
+          ],
+          "description": null,
+          "minZoom": -2.8,
+          "maxZoom": 0,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f9c8899ac93b",
+          "type": "Region",
+          "loc": [
+            3724.0208716306415,
+            3854.384349803222
+          ],
+          "link": "Qonoa's Talons",
+          "layer": "%5B%5BTerra%20Region%20%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -2.8,
+          "maxZoom": 0,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_18c8aa3a7928",
+          "type": "Region",
+          "loc": [
+            5705.157156345139,
+            4128.811927174324
+          ],
+          "link": "The Poindrentym Ridge",
+          "layer": "%5B%5BTerra%20Region%20%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.504005362203897,
+            -0.9285737559155499
+          ],
+          "description": null,
+          "minZoom": -2.8,
+          "maxZoom": 0,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b929f909f96b",
+          "type": "Region",
+          "loc": [
+            2196.17857258816,
+            1537.5945445123468
+          ],
+          "link": "Doomtusk Hinterlands",
+          "layer": "%5B%5BTerra%20Region%20%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -3.1,
+          "maxZoom": 0,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8bf81bd97a19",
+          "type": "Region",
+          "loc": [
+            1326.0229810823357,
+            752.3718135716605
+          ],
+          "link": "Malicescale Barrens",
+          "layer": "%5B%5BTerra%20Region%20%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -3.1,
+          "maxZoom": 0,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5b7b6bc90b09",
+          "type": "Region",
+          "loc": [
+            1032.1082495081741,
+            1895.4236505555625
+          ],
+          "link": "Tormenthusk Wastelands",
+          "layer": "%5B%5BTerra%20Region%20%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -3.1,
+          "maxZoom": 0,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [
+        {
+          "radius": 523.9029691098812,
+          "loc": [
+            3307.869500976599,
+            3014.043611783689
+          ],
+          "color": "blue",
+          "layer": "%5B%5BTerra%20Map%20(High%20Res).jpg%5D%5D",
+          "unit": "mi",
+          "desc": "",
+          "mutable": true,
+          "marker": null
+        }
+      ],
+      "shapes": [],
+      "files": [
+        "01 Terra/Terra.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    },
+    "isImage": false
+  },
+  "markerIcons": [
+    {
+      "type": "Empire City",
+      "iconName": "star",
+      "color": "#9ea636",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": -2,
+      "maxZoom": null
+    },
+    {
+      "type": "Major City",
+      "iconName": "gopuram",
+      "color": "#8c3ecc",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Region",
+      "iconName": "map",
+      "color": "#a82497",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": -3,
+      "maxZoom": -2.6
+    },
+    {
+      "type": "Dungeon",
+      "iconName": "dungeon",
+      "color": "#4f4f4f",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Dragon-1st Clutch",
+      "iconName": "dragon",
+      "color": "#d62424",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": -0.6,
+      "maxZoom": null
+    },
+    {
+      "type": "Village",
+      "iconName": "campground",
+      "color": "#e3901c",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Elder God",
+      "iconName": "dice-d20",
+      "color": "#7c7e0c",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Ideal God",
+      "iconName": "dice-d20",
+      "color": "#911bb1",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": -1.6,
+      "maxZoom": null
+    },
+    {
+      "type": "Dragon-2nd Clutch",
+      "iconName": "dragon",
+      "color": "#d16d10",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": -0.6,
+      "maxZoom": null
+    },
+    {
+      "type": "Dragon-3rd Clutch",
+      "iconName": "dragon",
+      "color": "#a1d70f",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": -0.6,
+      "maxZoom": null
+    },
+    {
+      "type": "Lesser Gods",
+      "iconName": "dice-d20",
+      "color": "#14dbc4",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": -0.6,
+      "maxZoom": null
+    },
+    {
+      "type": "Demi Gods",
+      "iconName": "dice-d20",
+      "color": "#219735",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "House",
+      "iconName": "home",
+      "color": "#9b2c3c",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Shop",
+      "iconName": "shopping-cart",
+      "color": "#1cb077",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Religion",
+      "iconName": "book-medical",
+      "color": "#848c12",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Castle",
+      "iconName": "chess-rook",
+      "color": "#6e6e6e",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Military",
+      "iconName": "chess-knight",
+      "color": "#ce7e22",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Guild",
+      "iconName": "flag",
+      "color": "#3a17c4",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Royalty",
+      "iconName": "crown",
+      "color": "#a409dc",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "School",
+      "iconName": "book-open",
+      "color": "#4ccb15",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Tavern",
+      "iconName": "beer",
+      "color": "#1783e8",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Inn",
+      "iconName": "bed",
+      "color": "#d7bbd8",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": -3.5,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "545px",
+    "image": "[[Terra Map (High Res).jpg]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[Terra Map (High Res).jpg]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 1,
+    "minZoom": -3.5,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 4.830917874396135,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 0.4,
+    "zoomFeatures": false,
+    "id": "TerraMap",
+    "bounds": [
+      [
+        0,
+        0
+      ],
+      [
+        6144,
+        8192
+      ]
+    ],
+    "width": "100%",
+    "lat": 3072,
+    "long": 4096,
+    "unit": "mi",
+    "recenter": true,
+    "darkmode": false,
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

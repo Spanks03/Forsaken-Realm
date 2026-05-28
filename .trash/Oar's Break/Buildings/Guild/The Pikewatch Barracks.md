@@ -1,0 +1,7 @@
+*Guardhouse & Fighter's Guild*
+
+The steady clang of steel on steel rings out from **The Pikewatch Barracks**, a sturdy stone building fortified against both the unpredictable moods of the river and the occasional troublemakers who wander into Oar’s Break. Inside, the sharp scent of sweat, leather, and oil mingles with the echo of shouted commands and the measured footfalls of soldiers drilling fighting techniques. The walls are lined with racks of pikes, shields, and worn weapons, each polished and ready for the next call to arms.
+
+At the heart of this disciplined hub stands **[[Sergeant Calla Vryn]]**, a lean, steely-eyed woman whose voice cuts through the noise with practiced authority. Known for her strict but fair training methods, she welcomes anyone willing to show up sober and ready to learn, regardless of background or skill. Her sharp gaze misses nothing—every stance corrected, every grip adjusted—pushing recruits harder with a mixture of tough love and unyielding expectation. “Discipline builds strength. Strength keeps us alive,” she often reminds the fighters gathered here.
+
+The sparring ring in the center is a well-worn battleground where newcomers test their mettle and veterans sharpen their edge. The rhythmic thuds of punches, the scrape of boots, and the occasional grunt form a steady beat beneath Calla’s watchful eye. In this place, camaraderie is forged through sweat and perseverance, and even the grimmest days find a measure of order in the steady drum of drills and the unspoken promise of protection for Oar’s Break.

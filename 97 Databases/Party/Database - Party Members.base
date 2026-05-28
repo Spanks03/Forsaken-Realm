@@ -1,0 +1,57 @@
+properties:
+  file.name:
+    displayName: Name
+  property.aliases:
+    displayName: Aliases
+  property.organization:
+    displayName: Organizations
+  property.religions:
+    displayName: Religions
+  property.currentLocation:
+    displayName: Location
+  note.aliases:
+    displayName: Aliases
+  note.religions:
+    displayName: Religions
+  note.currentLocation:
+    displayName: Current Location
+views:
+  - type: cards
+    name: All
+    filters:
+      and:
+        - file.inFolder("51 Characters")
+        - whichParty.contains(this)
+    order:
+      - aliases
+      - file.name
+    sort:
+      - property: tags
+        direction: DESC
+    columnSize:
+      file.name: 140
+      property.organization: 234
+      property.currentLocation: 203
+    image: note.art
+  - type: table
+    name: All (Manager)
+    filters:
+      and:
+        - file.inFolder("Campaign/Characters")
+        - whichParty.contains(this)
+    order:
+      - file.name
+      - aliases
+      - currentLocation
+    sort:
+      - property: tags
+        direction: DESC
+    columnSize:
+      file.name: 140
+      property.organization: 234
+      property.currentLocation: 203
+    image: note.art
+  - type: table
+    name: Name
+  - type: table
+    name: View

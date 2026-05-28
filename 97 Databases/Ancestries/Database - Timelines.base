@@ -1,0 +1,9 @@
+views:
+  - type: cards
+    name: Timelines
+    filters:
+      and:
+        - file.tags.contains("Realm")
+    image: note.art
+    imageAspectRatio: 0.75
+    cardSize: 170

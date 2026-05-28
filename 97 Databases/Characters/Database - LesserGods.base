@@ -1,0 +1,17 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.inFolder("03 Pantheon")
+        - file.tags.contains("Lesser")
+    order:
+      - file.name
+      - PantheonHeight
+      - domain
+      - Parents
+    columnSize:
+      note.domain: 163
+    image: note.art
+    cardSize: 130
+    imageAspectRatio: 0.8

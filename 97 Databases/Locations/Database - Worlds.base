@@ -1,0 +1,10 @@
+views:
+  - type: cards
+    name: Worlds
+    filters:
+      and:
+        - file.inFolder("01 Terra")
+        - file.tags.contains("World")
+    image: note.art
+    imageAspectRatio: 0.75
+    cardSize: 260

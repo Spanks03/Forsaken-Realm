@@ -1,0 +1,14 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.inFolder("02 Timeline")
+        - tag.contains("Pre-Existing Race")
+    order:
+      - file.name
+      - summary
+    cardSize: 160
+    image: note.art
+    imageFit: ""
+    imageAspectRatio: 0.7

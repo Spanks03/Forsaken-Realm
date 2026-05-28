@@ -1,0 +1,117 @@
+{
+  "devMode": false,
+  "ignoreCodeBlockRestrictions": true,
+  "preferredDateFormat": "YYYY-MM-DD",
+  "firstWeekday": {
+    "index": 1,
+    "name": "Monday",
+    "shortName": "Mo"
+  },
+  "syncInterval": 200,
+  "enableJs": true,
+  "viewFieldDisplayNullAsEmpty": true,
+  "enableSyntaxHighlighting": true,
+  "enableEditorRightClickMenu": true,
+  "inputFieldTemplates": [
+    {
+      "name": "Tags",
+      "declaration": "INPUT[inclineSelect(option(#Location), option(#Settlement), option(#Character), option(#Organization), options(#Guild), option(#NPC), option(#Player), option(#Party), option(#Letter), option(#Deity), option(#Adventure), option(#Ancestry), option(#Area), option(#District), option(#Event), option(#Heritage), option(#Item), option(#Language), option(#Literature), option(#Plane), option(#POI), option(#Shop), option(#Region), option(#Spell), option(#World), option(#Vehicle), option(#Timeline), option(#History), option(#Lore))]"
+    },
+    {
+      "name": "Ancestry",
+      "declaration": "INPUT[inclineSelect(option(null), option(Harmonian), option(Insectiod), option(Aasimar), option(Dragonborn), option(Dwarf), option(Elf), option(Gnome), option(Goliath), option(Halfling), option(Human), option(Orc), option(Tiefling), option(Aarakocra), option(Genasi), option(Bugbear), option(Centaur), option(Changeling), option(Firbolg), option(Goblin), option(Harengon), option(Jergal), option(Hobgoblin), option(Kenku), option(Kobold), option(Lizardfolk), option(Minotaur), option(Satyr), option(Shifter), option(Tabaxi), option(Tortle), option(Triton), option(Yuan-ti), option(Giff), option(Hadozee), option(Plasmoid), option(Leonin), option(Kalashtar), option(Warforged), option(Loxodon), option(Simic Hybrid), option(Locathah), option(Grung), option(Lizardfolk), option(Half-Elf), option(Half-Orc))]"
+    },
+    {
+      "name": "Gender",
+      "declaration": "INPUT[inclineSelect(option(null), option(Male), option(Female), option(N/A))]"
+    },
+    {
+      "name": "Languages",
+      "declaration": "INPUT[inclineSelect(option(Common), option(Dwarvish), option(Elvish), option(Giant), option(Gnomish), option(Goblin), option(Halfling), option(Orc), option(Abyssal), option(Celestial), option(Draconic), option(Deep Speech), option(Infernal), option(Primordial), option(Sylvan), option(Druidic), option(Gith), option(Undercommon), option(Common Sign Language), option(Thieves Cant))]"
+    },
+    {
+      "name": "Alignment",
+      "declaration": "INPUT[inclineSelect(option(True Neutral), option(Lawful Neutral), option(Neutral Good), option(Chaotic Good), option(Lawful Evil), option(Neutral Evil), option(Lawful Good), option(Chaotic Evil), option(Chaotic Neutral))]"
+    },
+    {
+      "name": "Heritage",
+      "declaration": "INPUT[inclineSelect(option(Vontrie Human), option(Alesund Human), option(Todazur Human), option(Hypnotic Human), option(Whispering Human), option(Ossean Human), option(Shadeborn Human), option(Thrummaz Dwarf), option(Ekonum Dwarf), option(Duergar Dwarf), option(Almohodan Dwarf), option(Marsh Dwarf), option(Sea Dwarf), option(Forge Dwarf), option(Aelari Elf), option(Ysilari Elf), option(Vaelari Elf), option(Ashfang Orc), option(Frostmaw Orc), option(Junglefang Orc), option(Ironhide Orc), option(Steppe Orc), option(River Orc), option(City Orc), option(Exile Orc), option(Hillfolk Halfling), option(Riverfolk Halfling), option(Marshfolk Halfling), option(Cityfolk Halfling), option(Wanderering Halfling), option(Forest Gnome), option(River Gnome), option(City Gnome), option(Desert Gnome), option(Tundra Gnome), option(Svirfneblin Gnome),option(Aelanthir Half-Elf), option(Stoneborn Half-Elf), option(Bladeshade Half-Elf), option(Spryfolk Half-Elf), option(Whispergnome Half-Elf), option(Exotic Half-Elf),option(Eophoran Half-Orc), option(Ossean Half-Orc), option(Kaerathir Half-Orc), option(Grumbakh Half-Orc), option(Togruylian Half-Orc), option(Exotic Half-Orc), option(Horde Goblin), option(Burrowfolk Goblin), option(City Shadow Goblin), option(Tinker-Clan Goblin), option(Wilderkin Goblin), option(Reefborn Triton), option(Abyssal Triton), option(Tidecaller Triton), option(Brinekin Triton), option(Tecumheim Triton), option(Exile Triton), option(Mask-Bearer Changeling), option(Many-Faced Changeling), option(Ghost Changeling), option(Echo-Touched Changeling), option(Doppleganger Changeling), option(Jungle Brood Yuan-ti), option(Marsh Serpent Yuan-ti), option(Sandfang Yuan-ti), option(Deepfang Yuan-ti), option(Pureblood Yuan-ti), option(Malfang Yuan-ti), option(Abomination Yuan-ti))]"
+    },
+    {
+      "name": "party1Relation",
+      "declaration": "INPUT[inclineSelect(option(Family), option(Like-Family), option(Friends), option(Acquaintance), option(Neutral), option(Dislikes), option(Hates), option(Enemy))]"
+    },
+    {
+      "name": "SettlementType",
+      "declaration": "INPUT[inclineSelect(option(Thorp), option(Hamlet), option(Village), option(Small Town), option(Large Town), option(Small City), option(Large City), option(Metropolis))]"
+    },
+    {
+      "name": "Terrain",
+      "declaration": "INPUT[inclineSelect(option(Plains), option(Hills), option(Forests), option(Deserts), option(Mountains), option(Tundra), option(Jungles), option(Swamps), option(Rivers), option(Lakes), option(Subterranean))]"
+    },
+    {
+      "name": "ShopType",
+      "declaration": "INPUT[inclineSelect(option(General Store), option(Potion Shop), option(Magic Shop), option(Traveling Shop), option(Inn), option(Blacksmith), option(Marketplace), option(Tavern), option(Tannery), option(Bookstore), option(Jeweler), option(Temple), option(Bakery), option(Butcher), option(Brewery), option(Masonry), option(Cobbler), option(Tailor shop), option(Shipwright), option(Fletcher), option(Mill Works), option(Pottery Shop))]"
+    },
+    {
+      "name": "Occupation",
+      "declaration": "INPUT[inclineSelect(option(Tinkerer), option(Innkeeper), option(Blacksmith), option(Stablehand), option(Town cryer), option(Tailor), option(Painter), option(Cobbler), option(Trapper), option(Fletcher), option(Tanner), option(Herbalist), option(Farmer), option(Carpenter), option(Stonemason), option(Miner), option(Fortune Teller), option(Baker), option(Guard), option(Doctor), option(Messenger), option(Banker), option(Guide), option(Cartographer), option(Bookkeeper), option(Academic), option(Accountant), option(Artisan), option(Assassin), option(Bandit), option(Bard), option(Bounty hunter), option(Brewer), option(Con artist), option(Cook), option(Fisher), option(Gravedigger), option(Hunter), option(Jester), option(Knight), option(Lawman), option(Lumberjack), option(Mercenary), option(Priest), option(Ranger), option(Sailor), option(Scribe), option(Servant), option(Shepperd), option(Soldier), option(Theif), option(Trader), option(Treasure Hunter), option(Wizard), option(Cleric), option(Lighthouse keeper), option(Author), option(Poet), option(Clocksmith), option(Beekeeper), option(Botanis), option(Alchemist), option(Librarian), option(Bartender), option(Toymaker), option(Woodcarver), option(Squire), option(Sculptor), option(Nurse), option(Mortician), option(Historian), option(Gladiator), option(Barber), option(Pirate), option(Guildmaster), option(Shaman), option(Butcher), option(Navigator), option(Breeder), option(Adventurer), option(Acolyte), option(Judge), option(Scholar), option(Architect), option(Bricklayer), option(Armorer), option(Basket weaver), option(Bookbinder), option(Bowyer), option(Chandler), option(Cooper), option(Dyer), option(Engraver), option(Fuller), option(Furniture maker),option(Furrier), option(Glass blower), option(Goldsmith), option(Instrument maker), option(Inventor), option(Jeweler), option(Leatherworker), option(Locksmith), option(Potter), option(Ship builder), option(Silversmith), option(Skinner), option(Weaponsmith), option(Weaver), option(Wheelwright), option(Raider), option(Pickpocket), option(Burglar), option(Acrobat), option(Bather), option(Minstrel), option(Prostitute), option(Storyteller), option(Herder), option(Tax collector), option(Healer), option(Midwife), option(Day laborer), option(Porter), option(Caravanner), option(Fishmonger), option(Florist), option(Grain merchant), option(Grocer), option(Haberdasher), option(Hay merchant), option(livestock merchant), option(Mercer), option(Miller), option(Peddler), option(Slaver), option(Spice merchant), option(Tobacco merchant), option(Wool merchant), option(City Guard), option(Private Guard), option(Village Guard), option(Diplomat), option(Official), option(Politician), option(Carriage Driver), option(Gardener), option(Launderer), option(Tavern server), option(Begger), option(Child), option(Housespouse))]"
+    },
+    {
+      "name": "Condition",
+      "declaration": "INPUT[inclineSelect(option(Healthy), option(Bloodied), option(Exhausted), option(Unconscious), option(Poisoned), option(Cursed), option(Possessed), option(Dead))]"
+    },
+    {
+      "name": "Pantheon",
+      "declaration": "INPUT[inclineSelect(option(Elder God), option(Ideal God), option(Lesser God), option(Demi God))]"
+    },
+    {
+      "name": "Location",
+      "declaration": "INPUT[inclineSelect(option(The Whispering Expanse), option(The Hypnotic Wilds), option(The Alesund Valley), option(The Todazur Flats), option(Cassierrels Spine), option(Qonoas Talons), option(The Poindrentym Ridge), option(Bloomfell Isles), option(Gaullinet Islands))]"
+    },
+    {
+      "name": "Population",
+      "declaration": "INPUT[inlineSelect(option(0.25, 20-80), option(0.5, 81-400), option(0.75, 401-1000), option(1, 1001-3000), option(1.5, 3001-6000), option(2, 6001-25000), option(3, 25001-100000), option(4, 100001+))]"
+    },
+    {
+      "name": "MilitaryMight",
+      "declaration": "INPUT[inlineSelect(option(1, No guards & no defenses—open to bandits.), option(2, A handful of militia with pitchforks & barely trained.), option(4, Small town watch & simple wooden palisade.), option(6, Local militia with some training and basic weapons.),  option(8, Standing town guard & modest defenses but vulnerable.),  option(10, Well-maintained guard & reliable city walls & standard garrison.),  option(12, Disciplined army with organized leadership and equipment.),  option(14, Regional military power—knights & war machines & fortresses.),  option(16, Feared army & professional corps & navy or air support.), option(18, Recognized as a military superpower & veterans of many wars.), option(20, Legendary army; unmatched in the region.), option(22, Empire’s military backbone & war engines & massive fleets.), option(24, Commands multi-regional armies & elite magical units.), option(26, Global superpower & military dominance unquestioned.), option(28, World-conquering force & feared across continents.), option(30, Mythic host—divine champions & planar armies & could wage war on gods.))]"
+    },
+    {
+      "name": "Infrastructure",
+      "declaration": "INPUT[inlineSelect(option(1, Dirt paths & no sanitation & frequent collapse of buildings.), option(2, Few usable roads & disorganized layout & no reliable transport.), option(4, Some basic streets and wells but poor upkeep.), option(6, A few decent bridges & basic sewers & small-scale irrigation.),  option(8, Organized streets & modest roads & and basic utilities.),  option(10, Standard stone roads & aqueducts & stable housing districts.),  option(12, Well-designed city planning & trade routes efficient.),  option(14, Advanced road networks & harbors & clean water & waste management.),  option(16, Architectural marvels & thriving transport systems & multi-level districts.), option(18, Engineering feats—colossal aqueducts & magical transit & flawless upkeep.), option(20, Flawless planning & wonders of the world.), option(22, Multiple megastructures & seamless transport.), option(24, Infrastructure integrates magic. example - teleport hubs & levitating highways), option(26, City functions like a living organism & no inefficiency.), option(28, Reality-defying designs. example - floating districts & weather control), option(30, Perfected utopia of infrastructure; perhaps planar or divine.))]"
+    },
+    {
+      "name": "PublicHealth",
+      "declaration": "INPUT[inlineSelect(option(1, Constant famine & rampant plague & population collapsing.), option(2, Severe malnutrition & dirty water & high mortality.), option(4, Occasional famine & sickness common & poor sanitation.), option(6, Adequate food but vulnerable to outbreaks.),  option(8, Decent nutrition & basic sanitation & occasional sickness.),  option(10, Reliable food and water supply & manageable health issues.),  option(12, Good sanitation & stable harvests & organized healers.),  option(14, Abundant food & clean water & public health programs.),  option(16, Rarely faces epidemics & longevity and vitality common.), option(18, Nearly immune to plagues/famine & advanced healing practices.), option(20, Near-utopian health.), option(22, Disease eradicated & lifespans doubled.), option(24, Citizens rarely fall ill & injuries healed instantly.), option(26, Immortality possible for most; magical or alchemical advances.), option(28, No famine & no death from natural causes; only violence can harm.), option(30, God-touched people—immortal & ageless & immune to all sickness.))]"
+    },
+    {
+      "name": "EducationMagic",
+      "declaration": "INPUT[inlineSelect(option(1, No written records & superstition dominates.), option(2, Oral tradition only & very limited scholarly thought.), option(4, Few scribes & little organized learning & magic feared.), option(6, Basic literacy & local hedge-wizards or apprentices.),  option(8, Schools and libraries exist & modest arcane guilds.),  option(10, Colleges & wizards towers & and educated artisans are common.),  option(12, Thriving intellectual culture & magical research supported.),  option(14, Universities and magical academies; innovative ideas spread.),  option(16, Hub of scholarship & magical breakthroughs frequent.), option(18, Global leader in knowledge and arcane mastery.), option(20, Legendary intellectual/magical capital.), option(22, Breakthroughs that reshape regions. example - teleportation & artificing), option(24, Schools producing archmages as a matter of course.), option(26, Research brushes against divine secrets.), option(28, Settlements that rewrite the rules of reality. example - new planes & laws of magic), option(30, Mythic hub—library of all existence & where gods themselves seek wisdom.))]"
+    },
+    {
+      "name": "EconomicStability",
+      "declaration": "INPUT[inlineSelect(option(1, Collapsing economy & famine & trade dead & widespread theft.), option(2, Massive debt & unstable currency & regular riots.), option(4, Barely surviving & wealth hoarded by a few & corruption rampant.), option(6, Modest trade & high inequality & fragile markets.),  option(8, Stable but vulnerable economy & simple coinage and trade.),  option(10, Balanced taxes & reliable trade & comfortable prosperity.),  option(12, Growing wealth & fair taxation & robust guild networks.),  option(14, Thriving economy & strong merchant class & vibrant markets.),  option(16, Regional trade hub & exports drive prosperity.), option(18, Global economic power & rich coffers & stable wealth.), option(20, Legendary prosperity.), option(22, Currency accepted globally & vast reserves of wealth.), option(24, Markets dictate world politics; vast mercantile empire.), option(26, Wealth defies scarcity—resources seem inexhaustible.), option(28, Economic control across planes & astral trade routes.), option(30, Infinite prosperity—city literally never wants for anything.))]"
+    },
+    {
+      "name": "Diplomacy",
+      "declaration": "INPUT[inlineSelect(option(1, Universally hated & constant rebellions & pariah state.), option(2, Hostile relations & xenophobic & prone to war.), option(4, Distrusted & poor reputation & few allies.), option(6, Neutral but aloof & occasional alliances.),  option(8, Decent reputation & reliable relations with neighbors.),  option(10, Stable treaties & fair leadership & respected locally.),  option(12, Regional influence & charismatic leaders & allies drawn to them.),  option(14, Skilled diplomats & well-liked & cultural soft power.),  option(16, International respect & strong alliances & admired abroad.), option(18, Great diplomatic power & shape global politics.), option(20, Legendary reputation.), option(22, Cultural beacon; empires revolve around its approval.), option(24, Mediator of the world; wars stop when it speaks.), option(26, Revered even by enemies; influence crosses planes.), option(28, Cultural gravity pulls in gods & demons & and nations alike.), option(30, Mythic influence—its mere existence holds the multiverse in balance.))]"
+    },
+    {
+      "name": "SettlementTraits",
+      "declaration": "INPUT[inlineSelect(option(Fortified Walls), option(Trade Hub), option(Grand Academy), option(Veteran Army), option(Cultural Magnet), option(Sacred Wells), option(Arcane Nexus), option(Merchant Princes), option(City of Artisans), option(Divine Favor), option(Mercenary Contract), option(Hidden Vaults), option(Iron Discipline), option(Revolutionary Spirit), option(Harbor of Storms), option(Circle of Venterri))]"
+    },
+    {
+      "name": "AbilityProf",
+      "declaration": "INPUT[inclineSelect(option(str, Strength), option(dex, Dexterity), option(con, Constitution), option(int, Intelligence), option(wis, Wisdom), option(cha, Charisma))]"
+    },
+    {
+      "name": "SkillProf",
+      "declaration": "INPUT[inclineSelect(option(Acrobatics), option(Animal Handling), option(Arcana), option(Athletics), option(Deception), option(History), option(Insight), option(Intimidation), option(Investigation), option(Medicine), option(Nature), option(Perception), option(Performance), option(Persuasion), option(Religion), option(Sleight of Hand), option(Stealth), option(Survival))]"
+    }
+  ],
+  "buttonTemplates": [],
+  "excludedFolders": [
+    "templates"
+  ]
+}

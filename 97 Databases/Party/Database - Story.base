@@ -1,0 +1,69 @@
+formulas:
+  Untitled: ""
+properties:
+  file.name:
+    displayName: Name
+  property.aliases:
+    displayName: Aliases
+  property.organization:
+    displayName: Organization
+  property.religions:
+    displayName: religions
+  property.currentLocation:
+    displayName: Location
+  property.adventure:
+    displayName: Adventure
+  property.status:
+    displayName: Status
+  property.summary:
+    displayName: Summary
+views:
+  - type: table
+    name: Session Notes
+    filters:
+      and:
+        - whichParty.contains(this)
+        - file.inFolder("96 Campaigns/Notes")
+    order:
+      - file.name
+      - sessionNumber
+      - sessiondate
+      - summary
+    sort: []
+    limit: 10
+    columnSize:
+      file.name: 211
+      note.sessionNumber: 69
+      note.aliases: 203
+  - type: table
+    name: Adventures
+    filters:
+      and:
+        - file.inFolder("Campaign/Parties/Adventures")
+        - whichParty.contains(this)
+        - completed != true
+    order:
+      - file.name
+      - aliases
+      - completed
+      - summary
+    columnSize:
+      file.name: 140
+      note.aliases: 203
+      note.completed: 29
+  - type: table
+    name: Quests
+    filters:
+      and:
+        - file.inFolder("Campaign/Parties/Quests")
+        - whichParty.contains(this)
+        - completed != true
+    order:
+      - file.name
+      - aliases
+      - completed
+      - summary
+    columnSize:
+      file.name: 140
+      note.aliases: 203
+      note.completed: 29

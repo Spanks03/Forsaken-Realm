@@ -1,0 +1,12 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.tags.contains("Player")
+        - file.folder.contains("PCs")
+    order:
+      - file.name
+      - class
+    image: note.art
+    cardSize: 170

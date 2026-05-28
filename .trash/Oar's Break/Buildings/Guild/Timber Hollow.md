@@ -1,0 +1,7 @@
+*Cutter's Guild*
+
+Nestled just beyond the edge of Oar’s Break, **Timber Hollow** resonates with the steady rhythm of axes biting into thick pine and the sharp tang of fresh sawdust hanging heavy in the air. The scent of resinous wood mingles with damp earth, a constant reminder of the forest’s raw power and the skilled hands that shape it. The sound of chopping echoes across the clearing, punctuated by the occasional grunt or shouted instruction, creating a rugged symphony of labor and camaraderie.
+
+At the heart of the hollow stands the Cutter’s Guild, a collection of sturdy wooden buildings arranged around a central yard where logs are stacked high and ready for transport or crafting. Overseen by **[[Berun Kross]]**, a broad-shouldered man with hands calloused by years of work and eyes sharp as a hawk’s, the guild is a place of discipline and tradition. Berun moves among the cutters with practiced ease, offering guidance and critiques with a steady, calm voice. His respect for the forest’s strength is matched only by his dedication to the guild’s craft, ensuring every cut is precise and every beam ready to support the town’s future.
+
+Despite the hard work, there is a deep pride in Timber Hollow—each felled tree a testament to the skill and endurance of those who call it home. The scent of pine and sawdust lingers long after the workday ends, a fragrant mark of Oar’s Break’s timber heart.
